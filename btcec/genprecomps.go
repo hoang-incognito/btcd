@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/inc-backend/btcd/btcec"
+	"github.com/incognito-core-libs/btcd/btcec"
 )
 
 func main() {
